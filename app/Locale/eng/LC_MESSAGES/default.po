@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+
+msgid "LanguageName"
+msgstr "English"
+
+msgid "home"
+msgstr "Home"
+
+msgid "ReadMore"
+msgstr "Read More"
+
+msgid "Incl. breakfast"
+msgstr "Incl. breakfast"
+
+msgid "Private balcony"
+msgstr "Private balcony"
+
+msgid "Sea view"
+msgstr "Sea view"
+
+msgid "Free Wi-Fi"
+msgstr "Free Wi-Fi"
+
+msgid "Bathroom"
+msgstr "Bathroom"
+
+msgid "a night"
+msgstr "a night"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

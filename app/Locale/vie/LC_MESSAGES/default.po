@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "LanguageName"
+msgstr "Việt Nam"
+
+msgid "home"
+msgstr "Trang chủ"
+
+msgid "ReadMore"
+msgstr "Read More"
+
+msgid "Incl. breakfast"
+msgstr "Incl. breakfast"
+
+msgid "Private balcony"
+msgstr "Private balcony"
+
+msgid "Sea view"
+msgstr "Sea view"
+
+msgid "Free Wi-Fi"
+msgstr "Free Wi-Fi"
+
+msgid "Bathroom"
+msgstr "Bathroom"
+
+msgid "a night"
+msgstr "một đêm"
